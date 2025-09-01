@@ -17,3 +17,7 @@ A Python desktop application for quickly classifying images with keyboard shortc
    ```bash
    pip install -r requirements.txt
    ```
+3. Run script
+   ```bash
+   python main.py
+   ```
