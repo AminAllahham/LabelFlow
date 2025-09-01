@@ -2,6 +2,8 @@
 
 A Python desktop application for quickly classifying images with keyboard shortcuts.
 
+![LabelFlow Demo](assets/demo.gif)
+
 ## Features
 
 - Select folder containing images to classify
