@@ -13,6 +13,9 @@ A Python desktop application for quickly classifying images with keyboard shortc
 ## Installation
 
 1. Clone this repository
+   ```bash
+   git clone git@github.com:AminAllahham/LabelFlow.git
+   ```
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
